@@ -2,7 +2,7 @@
 ## Hello World Backend and Frontend with Docker Compose
 
 This project demonstrates a simple backend-frontend application containerized with Docker and orchestrated with Docker Compose.
-
+![Project Screenshot](unknown_007.png)
 ### Project Structure
 ```
 ai/
